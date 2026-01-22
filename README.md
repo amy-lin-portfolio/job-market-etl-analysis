@@ -111,7 +111,8 @@ A single visualization was included to summarize average salary by seniority.
 ---
 
 ## Notes
-This project emphasizes responsible data cleaning, validation, and interpretation. Results are descriptive and exploratory in nature and should be interpreted in the context of sample size limitations and job posting variability.
+- This project emphasizes responsible data cleaning, validation, and interpretation. Results are descriptive and exploratory in nature and should be interpreted in the context of sample size limitations and job posting variability.
+- Dropped columns that were not relevant to the analysis to improve readability and usability.
 
 ## Contact
 For questions, please contact: jlin673@gatech.edu
